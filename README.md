@@ -4,7 +4,7 @@
 
 Description | Resources
 ---|---
-Nodes :computer: | 3
+Node :computer: | 3
 CPU :abacus: | 4
 RAM :file_cabinet: | 16GB
 Storage :floppy_disk: | 100GB SSD
@@ -19,7 +19,7 @@ NFS Mount Storage :floppy_disk: | 1 TB
 
 Description | Resources
 ---|---
-Nodes :computer: | 1
+Node :computer: | 1
 CPU :abacus: | 8
 RAM :file_cabinet: | 32GB
 Storage :floppy_disk: | 500GB SSD

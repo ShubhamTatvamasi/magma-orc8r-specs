@@ -4,21 +4,21 @@
 
 Description | Resources
 ---|---
-Node :computer: | 3
-CPU / vCPU :abacus: | 4
-RAM :file_cabinet: | 16GB
-Storage :floppy_disk: | 100GB SSD
-Public / Private IP :round_pushpin: | 5
-Operating System :dvd: | Ubuntu Focal 20.04 (LTS)
-NFS Mount Storage :floppy_disk: | 1 TB SSD
+Nodes | 3
+CPU / vCPU | 4
+RAM | 16GB
+Storage | 100GB SSD
+Public / Private IP | 5
+Operating System | Ubuntu Focal 20.04 (LTS)
+NFS Mount Storage | 1 TB SSD
 
 ### Lab:
 
 Description | Resources
 ---|---
-Node :computer: | 1
-CPU / vCPU :abacus: | 8
-RAM :file_cabinet: | 32GB
-Storage :floppy_disk: | 500GB SSD
-Public / Private IP :round_pushpin: | 5
-Operating System :dvd: | Ubuntu Focal 20.04 (LTS)
+Nodes | 1
+CPU / vCPU | 8
+RAM | 32GB
+Storage | 500GB SSD
+Public / Private IP | 5
+Operating System | Ubuntu Focal 20.04 (LTS)
